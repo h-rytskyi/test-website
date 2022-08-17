@@ -4,6 +4,7 @@
  ?>
 
     <main>
+<div class="commit"></div>
       <div class="card" style="width:600px;">
         <h1 align="center">Григорій Рицький</h1>
         <h3 align="center">drupal developer, trainee</h3>
