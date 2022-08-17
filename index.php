@@ -4,6 +4,7 @@
  ?>
 
     <main>
+<div class="newBranch"></div>
 <div class="commit"></div>
       <div class="card" style="width:600px;">
         <h1 align="center">Григорій Рицький</h1>
