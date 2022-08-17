@@ -6,7 +6,8 @@
     <main>
 <p>This is the first file in my new Git Repo.</p>
 <p>This line is here to show how merging works.</p>
-
+<div class="newBranch"></div>
+<p>kldnvslkvndklsn another text tessting</p>
 <div class="commit"></div>
       <div class="card" style="width:600px;">
         <h1 align="center">Григорій Рицький</h1>
